@@ -1,0 +1,5 @@
+{
+  "name": "Chess Opening Trainer",
+  "description": "An interactive GUI to help beginner and intermediate chess players memorize openings and patterns using AI-powered hints and explanations.",
+  "requestFramePermissions": []
+}
